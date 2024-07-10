@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @She-MO
 - I`m student of Kharkiv National University of Radio Electronics
+- Currently learning C# and ASP.NET Core
   
 
 <!---
